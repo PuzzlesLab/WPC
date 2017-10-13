@@ -7,7 +7,7 @@ You __must__ be in our __vJudge Group__ in order to join WPC. [Link Here](https:
 
 ## Past WPCs
 
-+ WPC - First Blood [2017-10-12] [Check it out here](https://vjudge.net/contest/190740)
++ WPC - First Blood [2017-10-12] [[Check it out here](https://vjudge.net/contest/190740)]
 
 ## Upcoming WPCs
 

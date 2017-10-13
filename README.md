@@ -3,7 +3,7 @@ This repo is to keep records and documentations for WPC series.
 
 ## Joining WPC
 
-You __must__ be in our __vJudge Group__ in order to join WPC. [Link Here](https://vjudge.net/group/umpuzzlers)
+You __must__ be in our __vJudge Group__ in order to join WPC. [[Link Here](https://vjudge.net/group/umpuzzlers)]
 
 ## Past WPCs
 

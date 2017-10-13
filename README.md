@@ -11,10 +11,4 @@ This repo is to keep records and documentations for WPC series.
 
 ## Question Sources of Past Contests
 
-### UVA
-
-> 144
-
-### POJ
-
-> 1000 1003 1007
+__Refer to README.md for each WPC's directory__

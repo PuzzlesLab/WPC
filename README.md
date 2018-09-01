@@ -1,18 +1,8 @@
 # WPC
-This repo is to keep records and documentations for WPC series.
-
-## Joining WPC
-
-You __must__ be in our __vJudge Group__ in order to join WPC. [[Link Here](https://vjudge.net/group/umpuzzlers)]
+This repository keeps participants' submissions and rankings for WPC series.
 
 ## Past WPCs
+[UM Puzzlers Vjudge Group](https://vjudge.net/group/umpuzzlers)
 
-+ WPC - First Blood [2017-10-12] [[Check it out here](https://vjudge.net/contest/190740)]
-
-## Upcoming WPCs
-
-+ TBD
-
-## Question Sources of Past Contests
-
-Refer to each past competition's __README.md__
+## Question Sources of Past WPCs
+[Question Sources are recorded this Google Sheet](https://docs.google.com/spreadsheets/d/1Z2xnQPQ7omXepS9IjI6qLhdpq_xmtZHJqIuc0mngG1I/edit#gid=1963651368)
